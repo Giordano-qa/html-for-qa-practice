@@ -1,5 +1,5 @@
 📘 Exercícios de Aprendizagem — Base Técnica
-
+---
 📌 Sobre este repositório
 
 Este repositório reúne exercícios iniciais desenvolvidos durante meus primeiros estudos em HTML e estruturação de páginas web.
@@ -15,7 +15,7 @@ comportamento esperado da interface
 pontos comuns de falha e validação
 
 Esse conhecimento é essencial para análise, planejamento e execução de testes de software.
-
+---
 🎯 Objetivo do repositório
 
 O objetivo deste repositório é documentar minha base técnica, servindo como apoio para:
@@ -29,7 +29,7 @@ criação de casos de teste manuais
 análise de validações de formulário e usabilidade
 
 Este repositório não tem como foco a entrega de um produto final, mas sim o aprendizado e a evolução técnica.
-
+---
 🧪 Relação com QA (Quality Assurance)
 
 Os exercícios presentes aqui contribuem diretamente para atividades comuns da área de QA, como:
@@ -43,11 +43,11 @@ identificação de falhas de usabilidade
 entendimento do fluxo de interação do usuário
 
 Esse tipo de base técnica facilita a comunicação com times de desenvolvimento e melhora a qualidade dos testes executados.
-
+---
 🛠️ Tecnologias utilizadas
 
 HTML5
-
+---
 📂 Conteúdo
 
 O repositório contém exercícios práticos voltados para:
@@ -59,7 +59,7 @@ uso de formulários
 organização de conteúdo
 
 primeiros conceitos de front-end, utilizados aqui como base de análise e teste
-
+---
 📈 Status
 
 📌 Repositório de aprendizado e base técnica
@@ -67,7 +67,7 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 📌 Utilizado como apoio para estudos em QA
 
 📌 Não representa experiência profissional formal
-
+---
 ## 📬 Contato
 
 Se quiser acompanhar minha jornada ou trocar ideias:  
