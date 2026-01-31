@@ -16,7 +16,6 @@ comportamento esperado da interface
 pontos comuns de falha e validação
 
 Esse conhecimento é essencial para análise, planejamento e execução de testes de software.
----
 
 🎯 Objetivo do repositório
 
@@ -31,7 +30,6 @@ criação de casos de teste manuais
 análise de validações de formulário e usabilidade
 
 Este repositório não tem como foco a entrega de um produto final, mas sim o aprendizado e a evolução técnica.
----
 
 🧪 Relação com QA (Quality Assurance)
 
@@ -46,12 +44,10 @@ identificação de falhas de usabilidade
 entendimento do fluxo de interação do usuário
 
 Esse tipo de base técnica facilita a comunicação com times de desenvolvimento e melhora a qualidade dos testes executados.
----
 
 🛠️ Tecnologias utilizadas
 
 HTML5
----
 
 📂 Conteúdo
 
@@ -64,7 +60,6 @@ uso de formulários
 organização de conteúdo
 
 primeiros conceitos de front-end, utilizados aqui como base de análise e teste
----
 
 📈 Status
 
@@ -74,11 +69,11 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 
 📌 Não representa experiência profissional formal
 
----
 ## 📬 Contato
+
 Se quiser acompanhar minha jornada ou trocar ideias:  
-- 📧 E-mail: devgbmc@gmail.com 
+- 📧 E-mail: devgbmc@gmail.com
 - 💻 GitHub: https://github.com/devgbmc
 - 📸 Instagram: https://www.instagram.com/devgmc25/
 - 💼 LinkedIn: [em breve]  
----
+
