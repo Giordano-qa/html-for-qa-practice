@@ -1,4 +1,5 @@
 📘 Exercícios de Aprendizagem — Base Técnica
+
 📌 Sobre este repositório
 
 Este repositório reúne exercícios iniciais desenvolvidos durante meus primeiros estudos em HTML e estruturação de páginas web.
