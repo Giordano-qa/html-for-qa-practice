@@ -2,6 +2,7 @@
 
 📌 Sobre este repositório
 
+
 Este repositório reúne exercícios iniciais desenvolvidos durante meus primeiros estudos em HTML e estruturação de páginas web.
 
 Embora o conteúdo tenha sido criado no contexto de aprendizado técnico geral, ele hoje representa uma base fundamental para minha atuação em QA (Quality Assurance), principalmente no entendimento de:
@@ -68,7 +69,9 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 📈 Status
 
 📌 Repositório de aprendizado e base técnica
+
 📌 Utilizado como apoio para estudos em QA
+
 📌 Não representa experiência profissional formal
 
 ---
