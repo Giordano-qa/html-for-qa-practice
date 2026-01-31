@@ -1,45 +1,76 @@
-# Programação
-Primeiros passos em HTML...
+📘 Exercícios de Aprendizagem — Base Técnica
+📌 Sobre este repositório
 
-# 📖 Minha Linha do Tempo de Programação
+Este repositório reúne exercícios iniciais desenvolvidos durante meus primeiros estudos em HTML e estruturação de páginas web.
 
-Bem-vindo ao meu repositório!  
-Aqui registro minha evolução como estudante de programação, organizando projetos e exercícios ao longo do tempo. 🚀
+Embora o conteúdo tenha sido criado no contexto de aprendizado técnico geral, ele hoje representa uma base fundamental para minha atuação em QA (Quality Assurance), principalmente no entendimento de:
 
+estrutura de páginas HTML
+
+formulários e seus campos
+
+comportamento esperado da interface
+
+pontos comuns de falha e validação
+
+Esse conhecimento é essencial para análise, planejamento e execução de testes de software.
 ---
 
-## 📌 Objetivo
-Criar uma linha do tempo pública com tudo o que estou aprendo, mostrando minha dedicação e evolução em **HTML, CSS** e futuramente **JavaScript** e outras linguagens.
+🎯 Objetivo do repositório
 
+O objetivo deste repositório é documentar minha base técnica, servindo como apoio para:
+
+compreensão de sistemas sob teste (SUT)
+
+identificação de cenários de teste
+
+criação de casos de teste manuais
+
+análise de validações de formulário e usabilidade
+
+Este repositório não tem como foco a entrega de um produto final, mas sim o aprendizado e a evolução técnica.
 ---
 
-## 🗂 Estrutura do Repositório
-Cada pasta representa um período ou projeto específico:
+🧪 Relação com QA (Quality Assurance)
 
+Os exercícios presentes aqui contribuem diretamente para atividades comuns da área de QA, como:
 
+validação de campos obrigatórios
+
+análise de estrutura e semântica HTML
+
+identificação de falhas de usabilidade
+
+entendimento do fluxo de interação do usuário
+
+Esse tipo de base técnica facilita a comunicação com times de desenvolvimento e melhora a qualidade dos testes executados.
 ---
 
-## 📚 Tecnologias utilizadas
-- HTML5  
-- CSS3 (em andamento)  
-- Futuramente: JavaScript(e outras...)
+🛠️ Tecnologias utilizadas
 
+HTML5
 ---
 
-## 👨‍💻 Como visualizar
-1. Baixe ou clone este repositório.
-2. Abra a pasta desejada.
-3. Execute o arquivo **index.html** no navegador.
+📂 Conteúdo
 
+O repositório contém exercícios práticos voltados para:
+
+estrutura básica de páginas HTML
+
+uso de formulários
+
+organização de conteúdo
+
+primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 ---
 
-## ✨ Próximos passos
-- Finalizar estudos de **CSS**.  
-- Iniciar estudos de **JavaScript**(e outras...).  
-- Melhorar os projetos anteriores com novas tecnologias.
+📈 Status
+
+📌 Repositório de aprendizado e base técnica
+📌 Utilizado como apoio para estudos em QA
+📌 Não representa experiência profissional formal
 
 ---
-
 ## 📬 Contato
 Se quiser acompanhar minha jornada ou trocar ideias:  
 - 📧 E-mail: devgbmc@gmail.com 
