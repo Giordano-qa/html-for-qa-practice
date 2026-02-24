@@ -72,9 +72,6 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 ---
 ## 📬 Contato
 
-Se quiser acompanhar minha jornada ou trocar ideias:  
-- 📧 E-mail: devgbmc@gmail.com
-- 💻 GitHub: https://github.com/devgbmc
-- 📸 Instagram: https://www.instagram.com/devgmc25/
+- 📧 E-mail: giordanocaruso@gmail.com
 - 💼 LinkedIn: [em breve]  
 
