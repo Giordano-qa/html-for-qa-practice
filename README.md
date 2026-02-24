@@ -1,6 +1,7 @@
 📘 Exercícios de Aprendizagem — Base Técnica
 ---
 📌 Sobre este repositório
+
 Obs: “Este repositório é utilizado como base para criação de cenários e casos de teste manuais.”
 
 Este repositório reúne exercícios iniciais desenvolvidos durante meus primeiros estudos em HTML e estruturação de páginas web.
