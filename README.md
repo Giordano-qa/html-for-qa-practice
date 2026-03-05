@@ -70,6 +70,26 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 
 📌 Não representa experiência profissional formal
 ---
+## Estratégia de Teste
+
+Para validar o funcionamento da página foram aplicadas verificações básicas de QA:
+
+- Teste de funcionamento dos players de vídeo
+- Verificação de carregamento de mídia local
+- Validação de incorporação de vídeos externos (YouTube e Vimeo)
+- Revisão de conteúdo textual e ortografia
+- Inspeção da estrutura HTML
+
+## Bugs identificados durante os testes
+
+Durante a análise deste exercício foram identificados alguns problemas:
+
+- Bug 1: Vídeo do YouTube não carrega (Erro 153 – configuração do player)
+- Bug 2: Inconsistência na estrutura do iframe do vídeo
+- Bug 3: Erro de ortografia no título da página
+
+Os detalhes completos estão documentados no bug report do projeto.
+
 ## 📬 Contato
 
 - 📧 E-mail: giordanocaruso@gmail.com
