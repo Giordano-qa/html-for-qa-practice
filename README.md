@@ -73,5 +73,5 @@ primeiros conceitos de front-end, utilizados aqui como base de análise e teste
 ## 📬 Contato
 
 - 📧 E-mail: giordanocaruso@gmail.com
-- 💼 LinkedIn: [em breve]  
+- 💼 LinkedIn: https://linkedin.com/in/giordano-medeiros-caruso-643b07231  
 
