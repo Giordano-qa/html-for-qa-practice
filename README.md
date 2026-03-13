@@ -93,5 +93,5 @@ Os detalhes completos estão documentados no bug report do projeto.
 ## 📬 Contato
 
 - 📧 E-mail: giordanocaruso@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/giordano-medeiros-caruso-643b07231  
+- 💼 LinkedIn: https://linkedin.com/in/giordanomcaruso/ 
 
